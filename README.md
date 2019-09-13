@@ -5,9 +5,19 @@ Present List of Python
 A curated list of present Python frameworks, libraries, software and resources.
 
 - [Present Python](#present-python)
-    - [Package & Project Management](# Package & Project Management)
-    - [Code Analysis](#code-analysis)
+    - Basic
+        - [Package & Project Management](#Package-&-Project-Management)
+        - [Code Analysis](#code-analysis)
 
+## Package & Project Management
+### Defaults
+* [pyenv](https://github.com/pyenv/pyenv) - Use multiple python versions & kernals in hamony🤝.
+* [pipenv](https://github.com/pypa/pipenv) - *Application* Development Best Friends 👫.
+* [poetry](https://github.com/sdispater/poetry) - *Library* Development Best Friends 👫.
+### Alternatives
+* [dephell](https://github.com/dephell/dephell) - A converter between all project formats.
+* [conda](https://github.com/conda/conda/) - #DataSci Cross-platform, Python-agnostic binary package manager.
+* [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
 # Package & Project Management
 ## Defaults
