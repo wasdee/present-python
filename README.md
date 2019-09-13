@@ -7,8 +7,7 @@ A curated list of present Python frameworks, libraries, software and resources.
 - [Present Python](#present-python)
     - Basic
         - [Package & Project Management](#Package-&-Project-Management)
-        - 
-        - [Code Analysis](#code-analysis)
+        - [Logging](#Logging)
 
 ## Package & Project Management
 
@@ -23,6 +22,18 @@ A curated list of present Python frameworks, libraries, software and resources.
 * [conda](https://github.com/conda/conda/) - #DataSci Cross-platform, Python-agnostic binary package manager.
 * [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
+
+## Logging
+
+*Libraries for generating and working with logs.*
+
+#### Defaults
+* [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+
+#### Alternatives
+* [sentry-python](https://github.com/getsentry/sentry-python) - Logging as-a-service by Sentry
+* [eliot](https://github.com/itamarst/eliot) - Logging that tells you *why* it happened
+* [logbook](https://github.com/getlogbook/logbook) - Logging replacement for Python.
 
 
 
