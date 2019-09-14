@@ -30,7 +30,7 @@ A curated list of present Python frameworks, libraries, software and resources.
 #### Defaults
 * [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 
-#### Alternatives
+##### Alternatives
 * [sentry-python](https://github.com/getsentry/sentry-python) - Logging as-a-service by Sentry
 * [eliot](https://github.com/itamarst/eliot) - Logging that tells you *why* it happened
 * [logbook](https://github.com/getlogbook/logbook) - Logging replacement for Python.
