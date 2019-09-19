@@ -8,6 +8,14 @@ A curated list of present Python frameworks, libraries, software and resources.
     - Basic
         - [Package & Project Management](#Package-&-Project-Management)
         - [Logging](#Logging)
+        - [Document & Report]
+    - UI
+        - [Terminal TUI](#Terminal-TUI)
+        - [Desktop GUI](#Desktop-GUI)
+    - Web
+    - Data Science
+    
+        
 
 ## Package & Project Management
 
@@ -27,15 +35,24 @@ A curated list of present Python frameworks, libraries, software and resources.
 
 *Libraries for generating and working with logs.*
 
-#### Defaults
+##### Defaults
 * [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 
-##### Alternatives
+###### Alternatives
 * [sentry-python](https://github.com/getsentry/sentry-python) - Logging as-a-service by Sentry
 * [eliot](https://github.com/itamarst/eliot) - Logging that tells you *why* it happened
 * [logbook](https://github.com/getlogbook/logbook) - Logging replacement for Python.
 
 
+## Documents & Reports
 
-# Doc Creation
-<https://docassemble.org/>
+*Libraries for generating and working with Documents & Reports.*
+
+##### Defaults
+* [docassemble](https://docassemble.org/) - Python logging made (stupidly) simple
+
+###### Alternatives
+
+
+
+
