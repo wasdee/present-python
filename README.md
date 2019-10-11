@@ -12,6 +12,7 @@ A curated list of present Python frameworks, libraries, software and resources.
     - UI
         - [Terminal TUI](#Terminal-TUI)
         - [Desktop GUI](#Desktop-GUI)
+        - [Interactive](#Interactive)
     - Web
     - Data Science
     
@@ -55,4 +56,13 @@ A curated list of present Python frameworks, libraries, software and resources.
 
 
 
+## Interactive
+
+*Libraries for generating and working with Documents & Reports.*
+
+##### Defaults
+* [streamlit](https://streamlit.io/) - The fastest way to build custom ML tools.
+
+###### Alternatives
+* [ipython widget](https://ipywidgets.readthedocs.io/en/latest/) - jupyter notebook/lab extension for visualization
 
