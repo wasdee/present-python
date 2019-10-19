@@ -51,6 +51,7 @@ A curated list of present Python frameworks, libraries, software and resources.
 
 ##### Defaults
 * [tqdm](https://github.com/tqdm/tqdm) - a very good progress bar
+* [Cooked Input](https://cooked-input.readthedocs.io/en/latest/quick_start.html) - a sensible Q/A
 ###### Alternatives
 
 
