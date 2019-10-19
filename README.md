@@ -14,6 +14,7 @@ A curated list of present Python frameworks, libraries, software and resources.
         - [Desktop GUI](#Desktop-GUI)
         - [Interactive](#Interactive)
     - Web
+        - [Scaping](#Scraping)
     - Data Science
     
         
@@ -32,6 +33,16 @@ A curated list of present Python frameworks, libraries, software and resources.
 * [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
 
+## Terminal TUI
+
+### Quick & Dirty
+
+##### Defaults
+* [fire](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+
+###### Alternatives
+
+
 ## Logging
 
 *Libraries for generating and working with logs.*
@@ -44,6 +55,15 @@ A curated list of present Python frameworks, libraries, software and resources.
 * [eliot](https://github.com/itamarst/eliot) - Logging that tells you *why* it happened
 * [logbook](https://github.com/getlogbook/logbook) - Logging replacement for Python.
 
+
+## Scraping
+
+*Libraries for get data from a website.*
+
+##### Defaults
+* [gazpacho 🥫](https://github.com/maxhumber/gazpacho) - Replaces requests and BeautifulSoup for most projects.
+
+###### Alternatives
 
 ## Documents & Reports
 
