@@ -23,23 +23,34 @@ A curated list of present Python frameworks, libraries, software and resources.
 
 *Libraries for package dependency and project management.*
 
-#### Defaults
+##### Defaults
 * [pyenv](https://github.com/pyenv/pyenv) - Use multiple python versions & kernals in hamony🤝.
 * [pipenv](https://github.com/pypa/pipenv) - ***Application*** Development Best Friends 👫.
 * [poetry](https://github.com/sdispater/poetry) - ***Library*** Development Best Friends 👫.
-##### Alternatives
+* [pipx](https://github.com/sdispater/poetry) - ***Library*** Development Best Friends 👫.
+
+###### Alternatives
 * [dephell](https://github.com/dephell/dephell) - A converter between all formats.
 * [conda](https://github.com/conda/conda/) - #DataSci Cross-platform, Python-agnostic binary package manager.
 * [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 
+## User Interface
 
-## Terminal TUI
+### Terminal TUI 
 
-### Quick & Dirty
+* Libraries for create a good TUI a.k.a. CLI Terminal Console * 
+
+#### Quick & Dirty
 
 ##### Defaults
-* [fire](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+* [fire](https://github.com/google/python-fire) - automatically generating (CLIs) from absolutely any Python object.
+###### Alternatives
 
+#### Elements
+
+
+##### Defaults
+* [tqdm](https://github.com/tqdm/tqdm) - a very good progress bar
 ###### Alternatives
 
 
