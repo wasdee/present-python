@@ -27,7 +27,7 @@ A curated list of present Python frameworks, libraries, software and resources.
 * [pyenv](https://github.com/pyenv/pyenv) - Use multiple python versions & kernals in hamony🤝.
 * [pipenv](https://github.com/pypa/pipenv) - ***Application*** Development Best Friends 👫.
 * [poetry](https://github.com/sdispater/poetry) - ***Library*** Development Best Friends 👫.
-* [pipx](https://github.com/sdispater/poetry) - ***Library*** Development Best Friends 👫.
+* [pipx](https://github.com/pipxproject/pipx) - ***CLI*** User Best Friends 👫.
 
 ###### Alternatives
 * [dephell](https://github.com/dephell/dephell) - A converter between all formats.
