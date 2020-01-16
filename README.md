@@ -82,9 +82,11 @@ A curated list of present Python frameworks, libraries, software and resources.
 *Libraries for generating and working with Documents & Reports.*
 
 ##### Defaults
-* [docassemble](https://docassemble.org/) - Python logging made (stupidly) simple
+* [docxtpl](https://github.com/elapouya/python-docx-template) - Python logging made (stupidly) simple
+
 
 ###### Alternatives
+* [docassemble](https://docassemble.org/) - Python logging made (stupidly) simple
 
 
 
