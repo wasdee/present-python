@@ -100,3 +100,8 @@ A curated list of present Python frameworks, libraries, software and resources.
 ###### Alternatives
 * [ipython widget](https://ipywidgets.readthedocs.io/en/latest/) - jupyter notebook/lab extension for visualization
 
+## Digital Actions
+
+### Financial and Investment
+
+* [cxxt](https://github.com/ccxt/ccxt) - trade cryptocurrency, virtually in any exchanges.
