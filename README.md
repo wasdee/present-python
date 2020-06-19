@@ -111,6 +111,6 @@ A curated list of present Python frameworks, libraries, software and resources.
 Send some messages to a human
 
 ##### Defaults
-* [notifiers](https://github.com/liiight/notifiers) - Send notification on multi-channels.
+* [notifiers](https://github.com/liiight/notifiers) - Send notification on multi-channels, slack, mailgun, twillio, pushover, ... .
 
 
