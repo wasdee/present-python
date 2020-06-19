@@ -60,7 +60,7 @@ A curated list of present Python frameworks, libraries, software and resources.
 *Libraries for generating and working with logs.*
 
 ##### Defaults
-* [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+* [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple. *could be combo with [notifiers](#Comunication)*
 
 ###### Alternatives
 * [sentry-python](https://github.com/getsentry/sentry-python) - Logging as-a-service by Sentry
@@ -105,3 +105,12 @@ A curated list of present Python frameworks, libraries, software and resources.
 ### Financial and Investment
 
 * [cxxt](https://github.com/ccxt/ccxt) - trade cryptocurrency, virtually in any exchanges.
+
+
+### Comunication
+Send some messages to a human
+
+##### Defaults
+* [notifiers](https://github.com/liiight/notifiers) - Send notification on multi-channels.
+
+
