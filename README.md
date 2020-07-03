@@ -34,6 +34,17 @@ A curated list of present Python frameworks, libraries, software and resources.
 * [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 * [pipenv](https://github.com/pypa/pipenv) - Used to be my ***Application*** Development Best Friends 👫.
 
+## Data
+
+### JSON
+
+
+##### Defaults
+* [orjson](https://github.com/ijl/orjson) - a fast, correct JSON library for Python. build with rust ♥
+
+###### Alternatives
+
+
 ## User Interface
 
 ### Terminal TUI 
