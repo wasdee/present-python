@@ -44,6 +44,14 @@ A curated list of present Python frameworks, libraries, software and resources.
 
 ###### Alternatives
 
+### Physical Data Extractor
+
+#### OCR
+##### Defaults
+
+
+###### Alternatives
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai.
 
 ## User Interface
 
