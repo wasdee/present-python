@@ -63,6 +63,7 @@ A curated list of present Python frameworks, libraries, software and resources.
 
 ##### Defaults
 * [fire](https://github.com/google/python-fire) - automatically generating (CLIs) from absolutely any Python object.
+* <https://github.com/rsalmei/alive-progress>
 ###### Alternatives
 
 ### Desktop GUI
