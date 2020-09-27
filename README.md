@@ -145,4 +145,6 @@ Send some messages to a human
 ### Financial
 ##### Default
 * https://github.com/man-group/arctic
+### Data Science
+* https://github.com/cgnorthcutt/cleanlab
 
