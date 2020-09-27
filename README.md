@@ -118,6 +118,8 @@ A curated list of present Python frameworks, libraries, software and resources.
 
 ## Interactive
 
+
+
 *Libraries for generating and working with Documents & Reports.*
 
 ##### Defaults
@@ -139,4 +141,8 @@ Send some messages to a human
 ##### Defaults
 * [notifiers](https://github.com/liiight/notifiers) - Send notification on multi-channels, slack, mailgun, twillio, pushover, ... .
 
+## Industry
+### Financial
+##### Default
+* https://github.com/man-group/arctic
 
