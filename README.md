@@ -34,6 +34,19 @@ A curated list of present Python frameworks, libraries, software and resources.
 * [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
 * [pipenv](https://github.com/pypa/pipenv) - Used to be my ***Application*** Development Best Friends 👫.
 
+### Project Templates
+
+*Templates and Libraries for creating one*
+
+##### Defaults
+* [TezRomacH's](https://github.com/TezRomacH/python-package-template) - Hypermodern python templates
+* [cookiecutter](https://github.com/cookiecutter/cookiecutter) - Solid project templating cli
+
+###### Alternatives
+* [copier](https://github.com/copier-org/copier) - Newcommer library in project templating
+
+
+
 ## Data
 
 ### JSON
@@ -87,6 +100,7 @@ A curated list of present Python frameworks, libraries, software and resources.
 
 ##### Defaults
 * [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple. *could be combo with [notifiers](#Comunication)*
+* [ice cream](https://github.com/gruns/icecream) - So cute and delicious, IceCream -- Never use print() to debug again
 
 ###### Alternatives
 * [sentry-python](https://github.com/getsentry/sentry-python) - Logging as-a-service by Sentry
@@ -100,6 +114,7 @@ A curated list of present Python frameworks, libraries, software and resources.
 
 ##### Defaults
 * [gazpacho 🥫](https://github.com/maxhumber/gazpacho) - Replaces requests and BeautifulSoup for most projects.
+* [playwright](https://github.com/microsoft/playwright-python) - Solid browser automation, maintain by Microsoft.
 
 ###### Alternatives
 
@@ -147,4 +162,6 @@ Send some messages to a human
 * https://github.com/man-group/arctic
 ### Data Science
 * https://github.com/cgnorthcutt/cleanlab
+
+
 
