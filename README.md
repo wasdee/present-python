@@ -117,6 +117,7 @@ A curated list of present Python frameworks, libraries, software and resources.
 * [playwright](https://github.com/microsoft/playwright-python) - Solid browser automation, maintain by Microsoft.
 
 ###### Alternatives
+* [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - similar to gazpacho #waitforeval
 
 ## Documents & Reports
 
