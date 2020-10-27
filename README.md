@@ -164,5 +164,10 @@ Send some messages to a human
 ### Data Science
 * https://github.com/cgnorthcutt/cleanlab
 
+## Text
+* https://github.com/Bogdanp/cursive_re
 
+## Queue
+* https://github.com/Bogdanp/dramatiq
+* http://fauststream.com
 
