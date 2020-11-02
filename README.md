@@ -40,6 +40,7 @@ A curated list of present Python frameworks, libraries, software and resources.
 
 ##### Defaults
 * [TezRomacH's](https://github.com/TezRomacH/python-package-template) - Hypermodern python templates
+* [Fullstack Fastapi](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Official Fullstack Fastapi
 * [cookiecutter](https://github.com/cookiecutter/cookiecutter) - Solid project templating cli
 
 ###### Alternatives
