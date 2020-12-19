@@ -67,6 +67,10 @@ A curated list of present Python frameworks, libraries, software and resources.
 ###### Alternatives
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai.
 
+### QRCode
+#### Generator
+<https://segno.readthedocs.io/en/stable/comparison-qrcode-libs.html>
+
 ## User Interface
 
 ### Terminal TUI 
