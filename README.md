@@ -176,6 +176,9 @@ Send some messages to a human
 * https://github.com/Bogdanp/dramatiq
 * http://fauststream.com
 
+## Data Sci
+- A Python library for unevenly-spaced time series analysis https://github.com/datascopeanalytics/traces
+
 ## [Pending]
 https://pypi.org/project/locate/
 https://nicholasnadeau.me/post/2020/8/one-version-to-rule-them-all-keeping-your-python-package-version-number-in-sync-with-git-and-poetry/
