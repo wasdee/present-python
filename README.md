@@ -181,4 +181,5 @@ Send some messages to a human
 
 ## [Pending]
 https://pypi.org/project/locate/
+ - [plumbum](https://github.com/tomerfiliba/plumbum) - Shell In Python
 https://nicholasnadeau.me/post/2020/8/one-version-to-rule-them-all-keeping-your-python-package-version-number-in-sync-with-git-and-poetry/
