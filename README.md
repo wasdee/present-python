@@ -1,5 +1,9 @@
 # present-python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+```
+# move to https://github.com/stars/wasdee/lists/present-python
 
+for simplicity and will auto generated this page based on the list instead
+```
 Present List of Python
 
 A curated list of present Python frameworks, libraries, software and resources.
